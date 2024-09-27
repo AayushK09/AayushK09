@@ -10,5 +10,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushK09&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AayushK09&icon=1&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AayushK09&icon=1&color=3)]
 
