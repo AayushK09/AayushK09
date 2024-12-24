@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aayush, a passionate coder who loves building innovative solutions and exploring various technologies, from web development to backend systems. I'm always keen on learning new things and contributing to open-source communities.<br>📚 Skills: JavaScript, React, Node.js, MongoDB, and more<br>🚀 Goals: Expand my expertise in full-stack development and contribute to impactful projects.<br>
+👋 Hi, I'm Aayush, a passionate coder who loves building innovative solutions and exploring various technologies, from web development to backend systems. I'm always keen on learning new things and contributing to open-source communities.<br>📚 Skills: JavaScript, React, Node.js,Next.js, MongoDB, and more<br>🚀 Goals: Expand my expertise in full-stack development and contribute to impactful projects.<br>
 
 
 # 💻 Tech Stack:
